@@ -1,0 +1,35 @@
+body {
+    padding: 10px 30px;
+}
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+}
+
+.header__row {
+    display: flex;
+    justify-content: space-between;
+}
+.container {
+}
+.header__logo {
+}
+.header__text {
+    font-size: 30px;
+}
+.main {
+    flex: 1 0 auto;
+}
+.main__info {
+    font-size: 40px;
+}
+.footer {
+}
+
+.footer__info {
+    font-size: 50px;
+}
