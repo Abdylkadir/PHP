@@ -1,0 +1,40 @@
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0 15px;
+}
+.header {
+
+}
+.header__row {
+    display: flex;
+    align-items: center;
+    
+}
+.header__logo {
+}
+.header__text {
+    margin: 0 auto;
+    font-size: 25px;
+}
+.main {
+    flex: 1 0 auto;
+}
+.main__row {
+}
+.main__info {
+}
+.footer {
+    padding-bottom: 30px;
+}
+.footer__info {
+    font-size: 20px;
+}
+
+/* -------------------------- */
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
